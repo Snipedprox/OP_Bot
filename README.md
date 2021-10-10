@@ -13,12 +13,12 @@ again all music credits go to Green and fun commands go to NotFaizen
 All emotes are in this server [Link](https://discord.gg/t759rpbgDG)
 Command list shown below:🥂
 
-![1](ss1.jpg)
+![1](/preview/ss1.jpg)
 
-![2](ss2.jpg)
+![2](/preview/ss2.jpg)
 
-![3](ss3.jpg)
+![3](/preview/ss3.jpg)
 
 
 bot avatar:
-![Avatar](op.jpg)
+![Avatar](/preview/op.jpg)
