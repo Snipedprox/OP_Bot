@@ -21,4 +21,4 @@ Command list shown below:🥂
 
 
 bot avatar:
-![Avatar](/preview/op.jpg)
+![Avatar](https://github.com/Snipedprox/OP_Bot/blob/main/Preview/op.png?raw=true)
