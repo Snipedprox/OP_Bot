@@ -30,10 +30,10 @@ with that said heres the source code [Repl](https://replit.com/@Snipedprox/OP#RE
 :herb::blossom:What does the bot offer:blossom::herb:
 We offer
 - 24/7 uptime
-- ![ ](https://github.com/Snipedprox/images/blob/main/music.gif?raw=true)Music commands
-- ![ ](https://github.com/Snipedprox/images/blob/main/imageee.gif?raw=true)Image commands
-- ![ ](https://github.com/Snipedprox/images/blob/main/891282235016216626.png?raw=true)Economy commands
-- ![ ](https://github.com/Snipedprox/images/blob/main/fun.gif?raw=true)Fun commands
-- ![ ](https://github.com/Snipedprox/images/blob/main/mod.gif?raw=true)Moderation commands
-- ![ ](https://github.com/Snipedprox/images/blob/main/giveaway.gif?raw=true)Giveaway commands
-- ![ ](https://github.com/Snipedprox/images/blob/main/tinyop.png?raw=true)And much more OP commands
+- ![](https://github.com/Snipedprox/images/blob/main/music.gif?raw=true)Music commands
+- ![](https://github.com/Snipedprox/images/blob/main/imageee.gif?raw=true)Image commands
+- ![](https://github.com/Snipedprox/images/blob/main/891282235016216626.png?raw=true)Economy commands
+- ![](https://github.com/Snipedprox/images/blob/main/fun.gif?raw=true)Fun commands
+- ![](https://github.com/Snipedprox/images/blob/main/mod.gif?raw=true)Moderation commands
+- ![](https://github.com/Snipedprox/images/blob/main/giveaway.gif?raw=true)Giveaway commands
+- ![](https://github.com/Snipedprox/images/blob/main/tinyop.png?raw=true)And much more OP commands
