@@ -22,6 +22,6 @@ Command list shown below:🥂
 
 - bot avatar
 
-![Avatar](https://github.com/Snipedprox/OP_Bot/blob/main/Preview/op.png?raw=true)
+![Avatar](https://github.com/Snipedprox/images/blob/main/op.png?raw=true)
 
 with that said heres the source code [Repl](https://replit.com/@Snipedprox/OP#README.md)
