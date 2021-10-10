@@ -15,7 +15,7 @@ Command list shown below:🥂
 
 ![1](https://github.com/Snipedprox/OP_Bot/blob/main/Preview/ss1.png?raw=true)
 
-![2](/preview/ss2.jpg)
+![2](https://github.com/Snipedprox/OP_Bot/blob/main/Preview/ss2.png?raw=true)
 
 ![3](/preview/ss3.jpg)
 
