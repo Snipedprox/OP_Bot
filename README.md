@@ -1,4 +1,4 @@
-# - ![](https://github.com/Snipedprox/images/blob/main/tinyop.png?raw=true) OP Bot
+# ![](https://github.com/Snipedprox/images/blob/main/tinyop.png?raw=true) OP Bot
 Hello everyone
 Im back with another copy paste discord bot
 this bot has 265 commands ❗ what i recommend
