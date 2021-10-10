@@ -20,5 +20,4 @@ Command list shown below:🥂
 ![Page 3](https://github.com/Snipedprox/OP_Bot/blob/main/Preview/ss3.png?raw=true)
 
 
-bot avatar:
-![Avatar](https://github.com/Snipedprox/OP_Bot/blob/main/Preview/op.png?raw=true)
+bot avatar: ![Avatar](https://github.com/Snipedprox/OP_Bot/blob/main/Preview/op.png?raw=true)
