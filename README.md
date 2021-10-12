@@ -10,7 +10,7 @@ this bot has 265 commands ❗ what i recommend
  
 the bots name is OP Bot named after a bot that just got shuttdown 😔
 again all music credits go to Green and fun commands go to NotFaizen
-All emotes are in this server [Link](https://discord.gg/t759rpbgDG)
+And dm me for the emotes!!!
 Command list shown below:🥂
 
 ![Page 1](https://github.com/Snipedprox/images/blob/main/ss1.png?raw=true)
